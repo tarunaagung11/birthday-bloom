@@ -61,7 +61,7 @@ export const FinalSurprise = () => {
             </h3>
             <p className="text-xl md:text-3xl font-light text-foreground/60 max-w-3xl mx-auto leading-relaxed">
               Every pixel, every animation, and every word was crafted with love. <br />
-              Happy Birthday once again, {config.name}. ✨
+              Happy Birthday once again my wife, {config.name} . ❤️✨
             </p>
           </div>
 
